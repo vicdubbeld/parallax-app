@@ -8,4 +8,3 @@ window.addEventListener('scroll', function(){
     parallax(".small-rose", window.scrollY, 0.4);
     parallax(".big-rose", window.scrollY, 0.2);
 });
-// parallax(header);
